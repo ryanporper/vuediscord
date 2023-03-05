@@ -1,3 +1,3 @@
-# [Live site]()
+# [Live site](http://vuediscord.s3-website-us-east-1.amazonaws.com/)
 
-*Built using: Vue, Tailwind CSS and Fontawesome*
+*Built with: Vue, Tailwind CSS and Fontawesome*
